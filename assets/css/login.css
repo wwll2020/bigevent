@@ -33,9 +33,9 @@ body {
 }
 
 .link {
-    /* display: flex;
-    justify-content: flex-end; */
-    float: right;
+    display: flex;
+    justify-content: flex-end;
+    /* float: right; */
 }
 
 .link a {
